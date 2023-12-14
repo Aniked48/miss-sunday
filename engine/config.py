@@ -1,0 +1,1 @@
+ASSISTANT_NAME = "Miss Sunday"
